@@ -1,0 +1,16 @@
+{
+  "name": "among-us",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "time": "node command.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "discord.js": "^14.15.3",
+    "nodemon": "^3.1.4"
+  }
+}
